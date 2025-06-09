@@ -14,3 +14,5 @@ Project operation process:
 ④ Log in to the project on the opened web page. On the story list page, you can click New Story, enter your story name, click Save, and then click the button Generate Story to enter the story writing page. Enter the premise on the story writing page. After waiting for a few minutes, the writing guide for the first section will be generated. Click Generate Story below the Writing Guide pop-up window to generate the story corresponding to the first section... and so on, until all the story sections are generated.
 
 If an error occurs during project operation, you can find a solution in the ruoyi project
+
+The MUSE_data folder shows 100 outlines and stories we generated using 100 premises.
