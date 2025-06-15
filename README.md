@@ -15,4 +15,6 @@ Project operation process:
 
 If an error occurs during project operation, you can find a solution in the ruoyi project
 
+Dataset:https://github.com/GAIR-NLP/MoPS/blob/master/assets/premises/mops/curated.jsonl
+
 The MUSE_data folder shows 100 outlines and stories we generated using 100 premises.
